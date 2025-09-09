@@ -1,0 +1,21 @@
+# ignore everything
+*
+
+# unignore directories so we can include contents
+!*/
+!/data/**
+!/scripts/**
+!/models/**
+# allow these files at root
+!/reinforcement_learning_1.ipynb
+!.gitignore
+# allow this specific file in stuff
+!/stuff/Inference.ipynb
+# Google Drive temp and lock files
+*.tmp
+*.tmp.*
+~$*
+*.gdoc
+*.gsheet
+*.gdrawing
+*.gslides
