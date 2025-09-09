@@ -19,3 +19,6 @@
 *.gsheet
 *.gdrawing
 *.gslides
+
+
+!README.md
