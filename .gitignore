@@ -6,6 +6,8 @@
 !/data/**
 !/scripts/**
 !/models/**
+!/assignments/**
+
 # allow these files at root
 !/reinforcement_learning_1.ipynb
 !.gitignore
