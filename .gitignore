@@ -10,6 +10,8 @@
 
 # allow these files at root
 !/reinforcement_learning_1.ipynb
+!/reinforcement_learning_2.ipynb
+
 !.gitignore
 # allow this specific file in stuff
 !/stuff/Inference.ipynb
