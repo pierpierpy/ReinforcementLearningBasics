@@ -11,6 +11,7 @@
 # allow these files at root
 !/reinforcement_learning_1.ipynb
 !/reinforcement_learning_2.ipynb
+!/reinforcement_learning_3.ipynb
 
 !.gitignore
 # allow this specific file in stuff
